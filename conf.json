@@ -1,0 +1,9 @@
+{
+	"maxplayers" : 1000,
+	"name" : "[ru][roleplay] GRANDBROWN BASIC RP MODE 0.0.1.0", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 400.0,
+	"announce" : false,
+	"csharp" : "disabled",
+	"port": 22005
+}
